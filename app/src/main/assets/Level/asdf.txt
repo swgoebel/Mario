@@ -1,0 +1,29 @@
+[header]
+width=828
+height=25
+tilewidth=26
+tileheight=26
+orientation=orthogonal
+
+[tilesets]
+tileset=../AndroidStudioProjects/Mario/app/src/main/assets/Level/groundBlock.png2626  
+tileset=../AndroidStudioProjects/Mario/app/src/main/assets/Level/questionBlock.png2626  
+tileset=../AndroidStudioProjects/Mario/app/src/main/assets/Level/brickBlock.png2626  
+
+[layer]
+type=Tile Layer 2
+data=
+                                                                                                                                                                                                                    
+                                                                                                                                                                                                                    
+                                                                                                                                                                                                                    
+                                                                                                                                                                                                                    
+                      8                                                         55555555   5558              8           555    5885                                                                                
+                                                                                                                                                                                                                    
+                                                                                                                                                                                                                    
+                                                                                                                                                                                                                    
+                4   58585                                                    585              8     58    8  8  8     5          55                                     5585                                        
+                                                                                                                                                                                                                    
+                                                                                                                                                                                                                    
+                                                                                                                                                                                                                    
+222222222222222222222222222222222222222222222222222222222222222222222  222222222222222   2222222222222222222222222222222222222222222222222222222222222222  222222222222222222222222222222222222222222222222222222222
+
